@@ -1,1 +1,6 @@
-LWJGL サンプルコード置き場
+### LWJGL 繧ｵ繝ｳ繝励Ν繧ｳ繝ｼ繝臥ｽｮ縺榊ｴ
+
+## 貅門ｙ
+
+$ mvn nativedependencies:copy
+
